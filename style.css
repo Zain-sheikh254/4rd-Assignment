@@ -50,10 +50,12 @@
     margin-bottom: 20px;
 
     clip-path: circle();
+    float: left;
+    /* display: inline-block; */
 }
 
 .nameHd {
-    float: right;
     margin-top: 25px;
-    margin-right: 130px;
+    /* margin-left: 10px; */
+    padding-left: 50px;
 }
